@@ -1,7 +1,7 @@
 "# 2025" Preparation
 
 1. Morgan Stanley : DeadLock Programm (Done)
-2. find the secone largest element in array using stream API ?
+2. find the second element in array using stream API ?
 
 Ans : 
 
