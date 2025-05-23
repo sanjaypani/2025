@@ -51,3 +51,10 @@ Ans :
     }
 	
 Output : 2 & 4 <index>	
+
+5. Question 4 : lets Say array is unsorted how to apparoach using <2 pointer Technique> ?
+
+Ans : 
+
+	Solution 1: Sort the Array and then Follow Question 4 Answer : O(n*log(n)) : due to Sorting
+	Solution 2 : Without using <2 pointer Technique> : Use HashSet O(n) 
